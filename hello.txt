@@ -2,4 +2,4 @@ hello git
 hello shangguigu
 third modification
 hot-fix branch modification
-master modification for test conflict
+merge modification for test conflict
